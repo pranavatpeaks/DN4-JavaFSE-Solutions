@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 📘 Cognizant Digital Nurture Program 4.0 – Java FSE
 
 ## Week 1 – Data Structures and Algorithms
@@ -625,4 +623,5 @@ public class Forecast {
 | Space Complexity    | O(n) (call stack)    | O(1)                   |
 | Readability         | High (very clean)    | Moderate               |
 | StackOverflow Risk  | Yes (if n is huge)   | No                     |
->>>>>>> b235c42 (Updated Week 1 and completed it)
+
+---
